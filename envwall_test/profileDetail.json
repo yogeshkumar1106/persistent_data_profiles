@@ -1,0 +1,47 @@
+{
+    "baseData": [
+        {
+            "baseId": "L28",
+            "gritValue": 0,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": 3,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-09-01T15:47:55",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 5.45066017180587e-310,
+    "processType": 0,
+    "rgb_masking_behavior": 0,
+    "scanData": [
+        {
+            "baseId": "T41",
+            "end": 5000,
+            "scanPose": [
+                0.0,
+                -0.5235987755982988,
+                -0.5235987755982988,
+                1.260127719939906,
+                -1.7488199104983182,
+                0.07033676885537149
+            ],
+            "sectionName": "T41",
+            "sectionType": 2,
+            "start": 1500
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 400.0,
+    "turn_off_ambient_light": true,
+    "zoneID": 0
+}

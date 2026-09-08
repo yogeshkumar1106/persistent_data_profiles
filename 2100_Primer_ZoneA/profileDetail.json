@@ -1,0 +1,137 @@
+{
+    "baseData": [
+        {
+            "baseId": "L28",
+            "gritValue": 0,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": 3,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-09-02T16:05:27",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 5.45066017180587e-310,
+    "processType": 0,
+    "rgb_masking_behavior": 0,
+    "scanData": [
+        {
+            "baseId": "SAW",
+            "end": 8250,
+            "scanPose": [
+                0.9777334469672234,
+                0.35622170033204265,
+                0.7764969842122772,
+                -0.22985986248765322,
+                -1.3758430493471299,
+                -1.1962486693169134
+            ],
+            "sectionName": "SAW",
+            "sectionType": 2,
+            "start": 3430
+        },
+        {
+            "baseId": "WOC",
+            "end": 3300,
+            "scanPose": [
+                0.6890559886873612,
+                -0.30473448739820996,
+                -0.28588493147667116,
+                -1.019446816089888,
+                -1.0960667702524387,
+                -0.15428710587629874
+            ],
+            "sectionName": "WOC",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "ALH",
+            "end": 8300,
+            "scanPose": [
+                0.26895523773232616,
+                0.36459928074161546,
+                -0.7672467391767073,
+                -1.8163641525504988,
+                -1.2793263417118435,
+                4.317246437733174
+            ],
+            "sectionName": "ALH",
+            "sectionType": 2,
+            "start": 2500
+        },
+        {
+            "baseId": "FLA",
+            "end": 2500,
+            "scanPose": [
+                0.21345376751890652,
+                1.2061970460532812,
+                -0.16266468628587152,
+                1.6228071385043277,
+                1.7964673990777635,
+                1.2939871074285958
+            ],
+            "sectionName": "FLA",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "KV4",
+            "end": 8300,
+            "scanPose": [
+                0.2389355745980237,
+                1.2737412881054617,
+                -0.3600614246864302,
+                1.5172147187586706,
+                1.1835077657773547,
+                1.6674875673553824
+            ],
+            "sectionName": "KV4",
+            "sectionType": 2,
+            "start": 2500
+        },
+        {
+            "baseId": "VJ7",
+            "end": 1500,
+            "scanPose": [
+                0.3794345793835672,
+                0.46652650905808424,
+                -0.46774823953448036,
+                2.1416935251222418,
+                1.697507230489685,
+                1.030791456227851
+            ],
+            "sectionName": "VJ7",
+            "sectionType": 2,
+            "start": 3300
+        },
+        {
+            "baseId": "EDR",
+            "end": 4300,
+            "scanPose": [
+                0.4897393881096088,
+                -0.4162610266006476,
+                -0.31485739705977706,
+                2.193355270981274,
+                1.2226031410220277,
+                -0.3576179637336381
+            ],
+            "sectionName": "EDR",
+            "sectionType": 2,
+            "start": 4000
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 400.0,
+    "turn_off_ambient_light": true,
+    "zoneID": 0
+}

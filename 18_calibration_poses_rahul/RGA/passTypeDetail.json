@@ -1,0 +1,42 @@
+{
+    "pass_details": [
+        {
+            "compound_type": 0,
+            "coverType": 3,
+            "custom_hatch_angle": -45.0,
+            "custom_overlap_percentage": 70.24,
+            "force": 30,
+            "geometryType": 0,
+            "grit": 80,
+            "hatchType": 2,
+            "pass_type": 0,
+            "path_shift": 0.0,
+            "patternType": 0,
+            "planner_param": 0,
+            "projectionType": 1,
+            "repeatTime": 1,
+            "rpm": 4500,
+            "sandpaper_key": "",
+            "velocity": 2.0
+        },
+        {
+            "compound_type": 0,
+            "coverType": 3,
+            "custom_hatch_angle": -45.0,
+            "custom_overlap_percentage": 70.24,
+            "force": 30,
+            "geometryType": 0,
+            "grit": 80,
+            "hatchType": 3,
+            "pass_type": 0,
+            "path_shift": 0.0,
+            "patternType": 0,
+            "planner_param": 0,
+            "projectionType": 1,
+            "repeatTime": 1,
+            "rpm": 4500,
+            "sandpaper_key": "",
+            "velocity": 2.0
+        }
+    ]
+}

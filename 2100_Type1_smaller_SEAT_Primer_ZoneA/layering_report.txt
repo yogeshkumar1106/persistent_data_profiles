@@ -1,0 +1,21 @@
+============================================================
+LAYERING CHECK REPORT
+============================================================
+Mode       : merged cloud (unlabeled)
+Input      : /home/gmruser/.ss/profile_handler/data/profiles/2100_Primer_ZoneA_Type1_smaller/mergedPointcloud.ply
+Points     : 3,380,125
+Tolerances : (directly specified, no config file)
+Radius     : 20.000 mm (auto from point spacing)
+Anchors    : 252356 evaluated, 96 skipped (sparse), 0 skipped (no overlap) of 252452 sampled
+------------------------------------------------------------
+Translational layering (per-anchor surface separation):
+  mean : 0.00118 m   (tolerance: 0.00500 m)
+  p95  : 0.00552 m
+  max  : 0.02678 m
+  anchors flagged layered : 35.6% of evaluated surface
+Rotational layering : N/A -- requires per-scan labels (use --folder mode)
+------------------------------------------------------------
+RESULT: PASS -- Calibration is accurate.
+ADVISORY: average is within tolerance, but a localized patch of the surface shows layering well above tolerance -- inspect the heatmap before signing off.
+Heatmap written to: /home/gmruser/.ss/profile_handler/data/profiles/2100_Primer_ZoneA_Type1_smaller/layering_heatmap.ply
+============================================================

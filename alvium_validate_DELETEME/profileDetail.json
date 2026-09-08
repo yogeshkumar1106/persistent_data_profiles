@@ -1,0 +1,62 @@
+{
+    "baseData": [
+        {
+            "baseId": "RGA",
+            "gritValue": 0,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": -1,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-08-29T16:21:02",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 0.0,
+    "processType": 0,
+    "rgb_masking_behavior": 1,
+    "scanData": [
+        {
+            "baseId": "JN4",
+            "end": 2000,
+            "scanPose": [
+                1.5728907218972898,
+                -0.12322024519079966,
+                -0.7651523440743142,
+                -0.0,
+                -0.9091420073638463,
+                1.5833626974092558
+            ],
+            "sectionName": "Eighteen",
+            "sectionType": 2,
+            "start": 0
+        },
+        {
+            "baseId": "CXF",
+            "end": 0,
+            "scanPose": [
+                1.5728907218972898,
+                -0.12322024519079966,
+                -0.7651523440743142,
+                0.0,
+                -0.9091420073638463,
+                1.5833626974092558
+            ],
+            "sectionName": "CXF",
+            "sectionType": 2,
+            "start": 2000
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 350.0,
+    "turn_off_ambient_light": false,
+    "zoneID": 0
+}
