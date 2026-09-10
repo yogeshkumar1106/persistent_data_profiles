@@ -1,0 +1,182 @@
+{
+    "baseData": [
+        {
+            "baseId": "0ZF",
+            "gritValue": 32110,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": 3,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-09-09T17:12:08",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 0.0,
+    "processType": 0,
+    "rgb_masking_behavior": 0,
+    "scanData": [
+        {
+            "baseId": "VGB",
+            "end": 8300,
+            "scanPose": [
+                1.5707963267948966,
+                -0.11798425743481668,
+                0.23823744289722598,
+                0.22689280275926285,
+                -1.4608405839192538,
+                1.6285667250359088
+            ],
+            "sectionName": "VGB",
+            "sectionType": 2,
+            "start": 2500
+        },
+        {
+            "baseId": "ENO",
+            "end": 2500,
+            "scanPose": [
+                1.5707963267948966,
+                -0.11798425743481668,
+                0.23823744289722598,
+                -0.26354471705114374,
+                -1.4608405839192538,
+                1.5229743052902518
+            ],
+            "sectionName": "ENO",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "4JD",
+            "end": 8300,
+            "scanPose": [
+                0.9110618695410401,
+                -0.3262020371977402,
+                -0.15132004614790837,
+                -0.2316051917396475,
+                -1.2643165101446923,
+                2.312735791817686
+            ],
+            "sectionName": "4JD",
+            "sectionType": 2,
+            "start": 2500
+        },
+        {
+            "baseId": "XT1",
+            "end": 2500,
+            "scanPose": [
+                0.9299114254625788,
+                -0.24137903555081577,
+                -0.06649704450098395,
+                -0.7674212721019067,
+                -1.1857766938049474,
+                -0.7836528341454538
+            ],
+            "sectionName": "XT1",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "LHP",
+            "end": 8300,
+            "scanPose": [
+                0.4564035993965171,
+                -0.26022859147235455,
+                -0.7010987605261222,
+                -1.3747958517959333,
+                -1.374272253020335,
+                0.49811696851918164
+            ],
+            "sectionName": "LHP",
+            "sectionType": 2,
+            "start": 2500
+        },
+        {
+            "baseId": "9WD",
+            "end": 2500,
+            "scanPose": [
+                0.3968878719035105,
+                -0.26022859147235455,
+                -0.9047786842338605,
+                -1.4479251474544956,
+                -0.9552186996164964,
+                -2.439795761362873
+            ],
+            "sectionName": "9WD",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "5J2",
+            "end": 8300,
+            "scanPose": [
+                0.21537362969610024,
+                0.6009168614616477,
+                -0.7778932476138727,
+                -1.9710003242771965,
+                -1.2273155300024123,
+                -1.6868607220525196
+            ],
+            "sectionName": "mid-low-left-SEAT-special",
+            "sectionType": 2,
+            "start": 2500
+        },
+        {
+            "baseId": "88Q",
+            "end": 2500,
+            "scanPose": [
+                0.2548180707911721,
+                0.4557054676957194,
+                -0.6618288523562498,
+                -1.369908929890349,
+                -1.5477579806685715,
+                1.1419689295798898
+            ],
+            "sectionName": "mid-low-right-SEAT-special",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "UD9",
+            "end": 8300,
+            "scanPose": [
+                0.1768018532270256,
+                1.3006193585861743,
+                0.13945180723434694,
+                -1.3744467859455345,
+                -1.6772614111665507,
+                1.1943288071397198
+            ],
+            "sectionName": "bottom-left",
+            "sectionType": 2,
+            "start": 2500
+        },
+        {
+            "baseId": "2Y2",
+            "end": 1700,
+            "scanPose": [
+                0.1768018532270256,
+                1.064650843716541,
+                -0.37926004645836786,
+                -1.7304939533523778,
+                -0.8311257897996996,
+                -1.7763961126798284
+            ],
+            "sectionName": "bottom-right",
+            "sectionType": 2,
+            "start": 8300
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 400.0,
+    "turn_off_ambient_light": true,
+    "zoneID": 1
+}
