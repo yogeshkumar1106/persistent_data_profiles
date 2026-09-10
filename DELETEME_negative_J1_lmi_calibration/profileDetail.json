@@ -1,0 +1,92 @@
+{
+    "baseData": [
+        {
+            "baseId": "RGA",
+            "gritValue": 0,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": -1,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-08-28T16:52:07",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 0,
+    "placement": 0.0,
+    "processType": 0,
+    "rgb_masking_behavior": 0,
+    "scanData": [
+        {
+            "baseId": "U0P",
+            "end": 2000,
+            "scanPose": [
+                -1.7208946424664087,
+                0.2528982086139783,
+                -0.32585297134734137,
+                0.08429940287132612,
+                -0.6077236455444255,
+                -2.2811453323565885
+            ],
+            "sectionName": "fourteen",
+            "sectionType": 2,
+            "start": 500
+        },
+        {
+            "baseId": "DWW",
+            "end": 500,
+            "scanPose": [
+                -1.5357152088298105,
+                0.1907644872429802,
+                -0.4206243497306334,
+                1.051735407251783,
+                -0.5480333851262194,
+                -2.7059584722920085
+            ],
+            "sectionName": "ten",
+            "sectionType": 2,
+            "start": 2000
+        },
+        {
+            "baseId": "4GB",
+            "end": 2000,
+            "scanPose": [
+                -1.5700981950940989,
+                0.2607521902479528,
+                -0.420449816805434,
+                0.9529497715889039,
+                -0.4953244417159907,
+                -2.474353280552361
+            ],
+            "sectionName": "nine",
+            "sectionType": 2,
+            "start": 500
+        },
+        {
+            "baseId": "W07",
+            "end": 500,
+            "scanPose": [
+                -1.6271704616343134,
+                0.03647738136668148,
+                -0.8306021910241015,
+                -0.39653880605311165,
+                -0.10506882097005864,
+                2.7279496208671374
+            ],
+            "sectionName": "eight",
+            "sectionType": 2,
+            "start": 2000
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 350.0,
+    "turn_off_ambient_light": false,
+    "zoneID": 0
+}

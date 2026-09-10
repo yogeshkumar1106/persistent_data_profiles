@@ -1,0 +1,15 @@
+# Ignore point cloud / mesh / binary files
+*.ply
+*.stl
+*.bin
+*.zip
+
+# Ignore specific json patterns
+rt*.json
+tp*.json
+
+# Ignore images
+*.png
+
+# Ignore entire rgb_images folders (at any depth)
+rgb_images/

@@ -1,0 +1,24 @@
+{
+    "pass_details": [
+        {
+            "compound_type": 0,
+            "coverType": 3,
+            "custom_hatch_angle": 0.0,
+            "custom_overlap_percentage": 80.5,
+            "force": 40,
+            "geometryType": 0,
+            "grit": 220,
+            "hatchType": 0,
+            "metering_position": 0.0,
+            "pass_type": 0,
+            "path_shift": 0.0,
+            "patternType": 0,
+            "planner_param": 5,
+            "pressure": 0.0,
+            "projectionType": 1,
+            "rpm": 6000,
+            "sandpaper_key": "",
+            "velocity": 0.49999999999999994
+        }
+    ]
+}

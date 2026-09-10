@@ -1,0 +1,92 @@
+{
+    "baseData": [
+        {
+            "baseId": "R82",
+            "gritValue": 31020,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": 3,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-08-31T21:26:49",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 0.0,
+    "processType": 0,
+    "rgb_masking_behavior": 0,
+    "scanData": [
+        {
+            "baseId": "I4Y",
+            "end": 8300,
+            "scanPose": [
+                -1.5819664340076602,
+                -0.03874630939427412,
+                0.26511551337793865,
+                0.4642575810304917,
+                -1.131147888217525,
+                -1.5439182563141836
+            ],
+            "sectionName": "I4Y",
+            "sectionType": 2,
+            "start": 2000
+        },
+        {
+            "baseId": "RDO",
+            "end": 1950,
+            "scanPose": [
+                -0.6157521601035995,
+                -0.6150540284028018,
+                -0.9419541973013397,
+                1.0623819156889485,
+                -0.7700392659798982,
+                0.3597123588360313
+            ],
+            "sectionName": "RDO",
+            "sectionType": 2,
+            "start": 8250
+        },
+        {
+            "baseId": "O5B",
+            "end": 8300,
+            "scanPose": [
+                -0.2670353755551324,
+                0.3319616237293215,
+                -0.5302310267558773,
+                1.3137093279761318,
+                -1.1470303844106733,
+                -0.3640756819660171
+            ],
+            "sectionName": "O5B",
+            "sectionType": 2,
+            "start": 2000
+        },
+        {
+            "baseId": "FYC",
+            "end": 1950,
+            "scanPose": [
+                -0.31974431896536115,
+                1.1424925283554879,
+                -0.06649704450098395,
+                -1.115788990799975,
+                1.7327628813799705,
+                -0.9320058205649718
+            ],
+            "sectionName": "FYC",
+            "sectionType": 2,
+            "start": 8250
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 350.0,
+    "turn_off_ambient_light": true,
+    "zoneID": 0
+}

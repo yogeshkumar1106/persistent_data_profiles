@@ -1,0 +1,47 @@
+{
+    "baseData": [
+        {
+            "baseId": "XYQ",
+            "gritValue": 30420,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": 3,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-08-31T14:32:28",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 0.0,
+    "processType": 0,
+    "rgb_masking_behavior": 0,
+    "scanData": [
+        {
+            "baseId": "O26",
+            "end": 3000,
+            "scanPose": [
+                -1.571319925570495,
+                0.45273840796732906,
+                -0.7560766319639435,
+                0.0,
+                -0.4363323129985824,
+                1.6084954386379742
+            ],
+            "sectionName": "O26",
+            "sectionType": 2,
+            "start": 0
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 350.0,
+    "turn_off_ambient_light": false,
+    "zoneID": 0
+}

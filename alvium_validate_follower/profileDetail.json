@@ -1,0 +1,62 @@
+{
+    "baseData": [
+        {
+            "baseId": "3RL",
+            "gritValue": 0,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": 3,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-08-29T17:08:17",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 0.0,
+    "processType": 0,
+    "rgb_masking_behavior": 1,
+    "scanData": [
+        {
+            "baseId": "BRY",
+            "end": 1500,
+            "scanPose": [
+                -1.5681783329169048,
+                -0.13718287920675432,
+                -0.7810348402674625,
+                -0.0,
+                -0.9496336460101146,
+                1.5681783329169048
+            ],
+            "sectionName": "BRY",
+            "sectionType": 2,
+            "start": 0
+        },
+        {
+            "baseId": "BGE",
+            "end": 0,
+            "scanPose": [
+                -1.5683528658421046,
+                0.004886921905584123,
+                -0.6485643500410928,
+                0.0,
+                -0.9400343351241459,
+                1.5683528658421046
+            ],
+            "sectionName": "BGE",
+            "sectionType": 2,
+            "start": 1500
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 350.0,
+    "turn_off_ambient_light": false,
+    "zoneID": 0
+}

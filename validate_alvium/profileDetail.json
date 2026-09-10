@@ -1,0 +1,47 @@
+{
+    "baseData": [
+        {
+            "baseId": "ZE6",
+            "gritValue": 30420,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": -1,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-08-29T17:55:47",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 1.0230494215311006e+219,
+    "processType": 0,
+    "rgb_masking_behavior": 1,
+    "scanData": [
+        {
+            "baseId": "NAG",
+            "end": 2000,
+            "scanPose": [
+                -1.5707963267948966,
+                0.0,
+                -0.6632251157578452,
+                0.0,
+                -0.9599310885968813,
+                1.5707963267948966
+            ],
+            "sectionName": "NAG",
+            "sectionType": 2,
+            "start": 0
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 350.0,
+    "turn_off_ambient_light": false,
+    "zoneID": 0
+}
