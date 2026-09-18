@@ -12,7 +12,7 @@
     ],
     "coverPicNeeded": 0,
     "coverPicType": 0,
-    "dateModified": "2026-09-14T22:59:23",
+    "dateModified": "2026-09-17T22:32:22",
     "description": "",
     "do_registration": false,
     "enable_coverage_comparison": false,
@@ -358,5 +358,5 @@
     "scan_behaviour": 0,
     "scan_speed": 400.0,
     "turn_off_ambient_light": true,
-    "zoneID": 0
+    "zoneID": 1
 }
