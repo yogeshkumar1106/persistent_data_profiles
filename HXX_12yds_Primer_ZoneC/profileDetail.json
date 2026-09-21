@@ -12,7 +12,7 @@
     ],
     "coverPicNeeded": 0,
     "coverPicType": 0,
-    "dateModified": "2026-09-18T20:43:50",
+    "dateModified": "2026-09-18T20:48:13",
     "description": "",
     "do_registration": false,
     "enable_coverage_comparison": false,
@@ -88,14 +88,14 @@
             "baseId": "4JD",
             "end": 8300,
             "scanPose": [
-                0.9110618695410401,
-                -0.3262020371977402,
-                -0.15132004614790837,
-                -0.2316051917396475,
-                -1.2643165101446923,
-                2.312735791817686
+                0.8679522370167799,
+                -0.37018433434799736,
+                -0.18151424220741028,
+                -0.37716565135597463,
+                -1.1737339219661866,
+                2.352180232912758
             ],
-            "sectionName": "4JD",
+            "sectionName": "top-mid-left-post",
             "sectionType": 2,
             "start": 2500
         },
@@ -106,11 +106,11 @@
                 0.3968878719035105,
                 -0.26022859147235455,
                 -0.9047786842338605,
-                -1.4479251474544956,
-                -0.9552186996164964,
-                -2.439795761362873
+                -1.2594295882391082,
+                -0.9922196797587763,
+                3.609689958974672
             ],
-            "sectionName": "9WD",
+            "sectionName": "mid-left",
             "sectionType": 2,
             "start": 8300
         },
@@ -191,7 +191,7 @@
         },
         {
             "baseId": "S54",
-            "end": 3300,
+            "end": 2700,
             "scanPose": [
                 1.0595893888857575,
                 -0.1795943800302165,
@@ -202,11 +202,11 @@
             ],
             "sectionName": "face-top-backward",
             "sectionType": 2,
-            "start": 2300
+            "start": 1700
         },
         {
             "baseId": "7U4",
-            "end": 2300,
+            "end": 1700,
             "scanPose": [
                 0.9567894959432915,
                 0.013788101090755204,
@@ -217,11 +217,11 @@
             ],
             "sectionName": "face-mid-backward",
             "sectionType": 2,
-            "start": 3300
+            "start": 2700
         },
         {
             "baseId": "2WT",
-            "end": 3300,
+            "end": 2700,
             "scanPose": [
                 1.0595893888857575,
                 0.6721262949430162,
@@ -232,7 +232,7 @@
             ],
             "sectionName": "face_bottom_backward",
             "sectionType": 2,
-            "start": 2300
+            "start": 1700
         }
     ],
     "scan_behaviour": 0,
