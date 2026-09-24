@@ -1,0 +1,182 @@
+{
+    "baseData": [
+        {
+            "baseId": "L28",
+            "gritValue": 0,
+            "isTrimmed": 0,
+            "sectionType": 0,
+            "tcpValue": 0,
+            "toolTypeValue": 3,
+            "toolValue": 0
+        }
+    ],
+    "coverPicNeeded": 0,
+    "coverPicType": 0,
+    "dateModified": "2026-09-23T23:28:53",
+    "description": "",
+    "do_registration": false,
+    "enable_coverage_comparison": false,
+    "global_scan_setup_id": "",
+    "material": 0,
+    "monitored_fixture": 0,
+    "partClass": 1,
+    "placement": 5.45066017180587e-310,
+    "processType": 0,
+    "rgb_masking_behavior": 0,
+    "scanData": [
+        {
+            "baseId": "SIJ",
+            "end": 8300,
+            "scanPose": [
+                -1.570970859720096,
+                0.2790781473938933,
+                0.8230972752405257,
+                0.318871654339364,
+                -1.467821900927231,
+                -1.5175637846090695
+            ],
+            "sectionName": "top-right",
+            "sectionType": 2,
+            "start": 2000
+        },
+        {
+            "baseId": "COV",
+            "end": 2000,
+            "scanPose": [
+                -1.570970859720096,
+                0.2782054827678961,
+                0.8208283472129332,
+                -0.07557275661135446,
+                -1.534668011278614,
+                -1.5039502164435137
+            ],
+            "sectionName": "top-left",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "WDO",
+            "end": 8300,
+            "scanPose": [
+                -1.570970859720096,
+                -0.2741912254883092,
+                0.052185344634630454,
+                -0.29408797896104455,
+                -1.209338638706871,
+                -1.5070918090971035
+            ],
+            "sectionName": "mid-top-left",
+            "sectionType": 2,
+            "start": 1500
+        },
+        {
+            "baseId": "GB9",
+            "end": 1500,
+            "scanPose": [
+                -1.59749986435041,
+                -0.260403124397554,
+                0.062482787221396996,
+                0.24661502330679877,
+                -1.2599531870147065,
+                -1.4732324216084136
+            ],
+            "sectionName": "mid-top-right",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "CTQ",
+            "end": 8300,
+            "scanPose": [
+                -0.4836307357276287,
+                -0.2106612407157156,
+                -1.0484192816729938,
+                -0.9922196797587763,
+                1.085245728890074,
+                -1.0028661881959418
+            ],
+            "sectionName": "mid-left",
+            "sectionType": 2,
+            "start": 1900
+        },
+        {
+            "baseId": "R5D",
+            "end": 2000,
+            "scanPose": [
+                -0.3991567999311032,
+                0.034033920413889425,
+                -1.1075859433156015,
+                1.3882348870362897,
+                -1.2126547642856602,
+                -1.1871729572065428
+            ],
+            "sectionName": "mid-right",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "TTC",
+            "end": 8300,
+            "scanPose": [
+                -0.2816961412718848,
+                0.7044148861049114,
+                -0.6473426195646969,
+                -1.4594443205176586,
+                1.6336281798666923,
+                -1.322261441310904
+            ],
+            "sectionName": "mid-bottom-right",
+            "sectionType": 2,
+            "start": 2000
+        },
+        {
+            "baseId": "0PD",
+            "end": 2000,
+            "scanPose": [
+                -0.3577924966588375,
+                0.5232497097479,
+                -1.032013186704247,
+                -0.8710938296703697,
+                1.4671237692264334,
+                -1.5268140296446395
+            ],
+            "sectionName": "mid-bottom-left",
+            "sectionType": 2,
+            "start": 8300
+        },
+        {
+            "baseId": "CF5",
+            "end": 8300,
+            "scanPose": [
+                -0.2734930937875114,
+                0.9988519309163547,
+                -0.48153634062523554,
+                -1.0780898789568973,
+                1.3241813034880978,
+                -1.5392058673337994
+            ],
+            "sectionName": "tire-left",
+            "sectionType": 2,
+            "start": 2000
+        },
+        {
+            "baseId": "FU2",
+            "end": 2000,
+            "scanPose": [
+                -0.19216075064457566,
+                1.1491247795130666,
+                -0.4201007509550351,
+                -1.821774673231681,
+                1.5575318244797396,
+                -1.5440927892393834
+            ],
+            "sectionName": "tire-right",
+            "sectionType": 2,
+            "start": 8300
+        }
+    ],
+    "scan_behaviour": 0,
+    "scan_speed": 400.0,
+    "turn_off_ambient_light": true,
+    "zoneID": 1
+}
