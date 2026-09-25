@@ -12,7 +12,7 @@
     ],
     "coverPicNeeded": 0,
     "coverPicType": 0,
-    "dateModified": "2026-09-22T20:38:04",
+    "dateModified": "2026-09-25T20:38:13",
     "description": "",
     "do_registration": false,
     "enable_coverage_comparison": false,
@@ -193,20 +193,35 @@
             "baseId": "S54",
             "end": 2700,
             "scanPose": [
-                1.0595893888857575,
-                -0.1795943800302165,
-                -0.4991641660703783,
-                1.5166911199830724,
-                1.562069680534925,
-                -2.8146924846912555
+                0.9716247945852433,
+                -0.3255039054969424,
+                -0.6127851003752091,
+                1.5559610281529448,
+                1.6922712427337019,
+                -2.851693464833535
             ],
             "sectionName": "face-top-backward",
             "sectionType": 2,
             "start": 1700
         },
         {
-            "baseId": "7U4",
+            "baseId": "OUX",
             "end": 1700,
+            "scanPose": [
+                0.9609782861480779,
+                0.0895353906273091,
+                -0.2410299697004169,
+                1.5828390986336573,
+                1.755626694581096,
+                -2.807885700608477
+            ],
+            "sectionName": "face-top-backward-2",
+            "sectionType": 2,
+            "start": 2700
+        },
+        {
+            "baseId": "7U4",
+            "end": 2700,
             "scanPose": [
                 0.9567894959432915,
                 0.013788101090755204,
@@ -217,11 +232,11 @@
             ],
             "sectionName": "face-mid-backward",
             "sectionType": 2,
-            "start": 2700
+            "start": 1700
         },
         {
             "baseId": "2WT",
-            "end": 2700,
+            "end": 1700,
             "scanPose": [
                 1.0595893888857575,
                 0.6721262949430162,
@@ -232,7 +247,7 @@
             ],
             "sectionName": "face_bottom_backward",
             "sectionType": 2,
-            "start": 1700
+            "start": 2700
         }
     ],
     "scan_behaviour": 0,
