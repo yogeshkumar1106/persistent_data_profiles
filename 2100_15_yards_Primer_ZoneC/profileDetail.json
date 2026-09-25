@@ -127,11 +127,11 @@
             ],
             "sectionName": "mid-low-left-SEAT-special",
             "sectionType": 2,
-            "start": 4000
+            "start": 2500
         },
         {
             "baseId": "88Q",
-            "end": 3000,
+            "end": 2500,
             "scanPose": [
                 0.2548180707911721,
                 0.4557054676957194,
