@@ -12,7 +12,7 @@
     ],
     "coverPicNeeded": 0,
     "coverPicType": 0,
-    "dateModified": "2026-09-23T16:48:47",
+    "dateModified": "2026-09-30T05:06:57",
     "description": "",
     "do_registration": false,
     "enable_coverage_comparison": false,
@@ -101,7 +101,7 @@
         },
         {
             "baseId": "R5D",
-            "end": 2000,
+            "end": 1800,
             "scanPose": [
                 -0.3991567999311032,
                 0.034033920413889425,
@@ -127,7 +127,7 @@
             ],
             "sectionName": "mid-bottom-right",
             "sectionType": 2,
-            "start": 2000
+            "start": 1800
         },
         {
             "baseId": "0PD",
